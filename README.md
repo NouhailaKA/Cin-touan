@@ -13,7 +13,7 @@ A list of technologies used within the project:
 ## Testing
 Installation
 ```
-$ git clone https://github.com/Equipe-N-02-projet-PR-SSI/Projet-PR-SSI
+$ git clone https://github.com/NouhailaKA/Cin-touan.git
 $ ouvrir le projet dans Eclipse 
 $ Afficher le planning de la cinéma : Avenida ou Espanol.
 ```
